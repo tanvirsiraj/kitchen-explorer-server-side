@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://i.ibb.co/0C8pGvc/img-1.jpg",
+        "chefName": "Jamie Johnson",
+        "yearsOfExperience": 12,
+        "likes": 2200,
+        "chefBio": "Chef Jamie Johnson has been cooking professionally for 12 years and specializes in Southern cuisine. She loves to use traditional techniques and fresh ingredients to create classic dishes with a modern twist.",
+        "numberOfRecipes": [
+            {
+                "recipePicture": "https://i.ibb.co/PwvwNnV/i1r1.jpg",
+                "recipeName": "Buttermilk Fried Chicken",
+                "ingredients": [
+                    "chicken thighs",
+                    "buttermilk",
+                    "flour",
+                    "paprika",
+                    "cayenne pepper"
+                ],
+                "cookingMethod": "1. Marinate chicken in buttermilk for at least 2 hours. 2. Mix flour, paprika, and cayenne pepper in a bowl. 3. Dredge chicken in flour mixture. 4. Fry chicken in hot oil until golden brown. 5. Serve hot.",
+                "rating": 4.5
+            },
+            {
+                "recipePicture": "https://i.ibb.co/YDYcH0c/i1r2.jpg",
+                "recipeName": "Shrimp and Grits",
+                "ingredients": [
+                    "shrimp",
+                    "grits",
+                    "bacon",
+                    "green onions",
+                    "cheese"
+                ],
+                "cookingMethod": "1.Cook grits according to package instructions. 2. Fry bacon until crispy and set aside. 3. Saute shrimp and green onions in bacon fat. 4. Serve shrimp over grits, topped with crumbled bacon and grated cheese. Serve hot.",
+                "rating": 4.2
+            },
+            {
+                "recipePicture": "https://i.ibb.co/hBpbr0p/i1r3.webp",
+                "recipeName": "Pecan Pie",
+                "ingredients": [
+                    "pecans",
+                    "corn syrup",
+                    "butter",
+                    "eggs",
+                    "brown sugar"
+                ],
+                "cookingMethod": "1. Preheat oven to 350°F. 2. Mix corn syrup, butter, eggs, and brown sugar in a bowl. 3. Stir in pecans. 4. Pour mixture into pie crust. 5. Bake for 50-60 minutes. Serve warm or cold.",
+                "rating": 4.8
+            }
+        ]
+    }
+]
