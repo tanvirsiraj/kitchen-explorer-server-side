@@ -5,9 +5,11 @@
         "chefName": "Jamie Johnson",
         "yearsOfExperience": 12,
         "likes": 2200,
+        "numberOfRecipes": 3,
         "chefBio": "Chef Jamie Johnson has been cooking professionally for 12 years and specializes in Southern cuisine. She loves to use traditional techniques and fresh ingredients to create classic dishes with a modern twist.",
-        "numberOfRecipes": [
+        "recipeInfo": [
             {
+                "recipe_id": 1,
                 "recipePicture": "https://i.ibb.co/PwvwNnV/i1r1.jpg",
                 "recipeName": "Buttermilk Fried Chicken",
                 "ingredients": [
@@ -21,6 +23,7 @@
                 "rating": 4.5
             },
             {
+                "recipe_id": 2,
                 "recipePicture": "https://i.ibb.co/YDYcH0c/i1r2.jpg",
                 "recipeName": "Shrimp and Grits",
                 "ingredients": [
@@ -34,6 +37,7 @@
                 "rating": 4.2
             },
             {
+                "recipe_id": 3,
                 "recipePicture": "https://i.ibb.co/hBpbr0p/i1r3.webp",
                 "recipeName": "Pecan Pie",
                 "ingredients": [
@@ -54,9 +58,11 @@
         "chefName": "Jamie Johnson 2",
         "yearsOfExperience": 12,
         "likes": 2200,
+        "numberOfRecipes": 3,
         "chefBio": "Chef Jamie Johnson has been cooking professionally for 12 years and specializes in Southern cuisine. She loves to use traditional techniques and fresh ingredients to create classic dishes with a modern twist.",
-        "numberOfRecipes": [
+        "recipeInfo": [
             {
+                "recipe_id": 1,
                 "recipePicture": "https://i.ibb.co/PwvwNnV/i1r1.jpg",
                 "recipeName": "Buttermilk Fried Chicken",
                 "ingredients": [
@@ -70,6 +76,7 @@
                 "rating": 4.5
             },
             {
+                "recipe_id": 2,
                 "recipePicture": "https://i.ibb.co/YDYcH0c/i1r2.jpg",
                 "recipeName": "Shrimp and Grits",
                 "ingredients": [
@@ -83,6 +90,7 @@
                 "rating": 4.2
             },
             {
+                "recipe_id": 3,
                 "recipePicture": "https://i.ibb.co/hBpbr0p/i1r3.webp",
                 "recipeName": "Pecan Pie",
                 "ingredients": [
@@ -103,9 +111,11 @@
         "chefName": "Jamie Johnson 3",
         "yearsOfExperience": 12,
         "likes": 2200,
+        "numberOfRecipes": 3,
         "chefBio": "Chef Jamie Johnson has been cooking professionally for 12 years and specializes in Southern cuisine. She loves to use traditional techniques and fresh ingredients to create classic dishes with a modern twist.",
-        "numberOfRecipes": [
+        "recipeInfo": [
             {
+                "recipe_id": 1,
                 "recipePicture": "https://i.ibb.co/PwvwNnV/i1r1.jpg",
                 "recipeName": "Buttermilk Fried Chicken",
                 "ingredients": [
@@ -119,6 +129,7 @@
                 "rating": 4.5
             },
             {
+                "recipe_id": 2,
                 "recipePicture": "https://i.ibb.co/YDYcH0c/i1r2.jpg",
                 "recipeName": "Shrimp and Grits",
                 "ingredients": [
@@ -132,6 +143,7 @@
                 "rating": 4.2
             },
             {
+                "recipe_id": 3,
                 "recipePicture": "https://i.ibb.co/hBpbr0p/i1r3.webp",
                 "recipeName": "Pecan Pie",
                 "ingredients": [
@@ -152,9 +164,11 @@
         "chefName": "Jamie Johnson 4",
         "yearsOfExperience": 12,
         "likes": 2200,
+        "numberOfRecipes": 3,
         "chefBio": "Chef Jamie Johnson has been cooking professionally for 12 years and specializes in Southern cuisine. She loves to use traditional techniques and fresh ingredients to create classic dishes with a modern twist.",
-        "numberOfRecipes": [
+        "recipeInfo": [
             {
+                "recipe_id": 1,
                 "recipePicture": "https://i.ibb.co/PwvwNnV/i1r1.jpg",
                 "recipeName": "Buttermilk Fried Chicken",
                 "ingredients": [
@@ -168,6 +182,7 @@
                 "rating": 4.5
             },
             {
+                "recipe_id": 2,
                 "recipePicture": "https://i.ibb.co/YDYcH0c/i1r2.jpg",
                 "recipeName": "Shrimp and Grits",
                 "ingredients": [
@@ -181,6 +196,7 @@
                 "rating": 4.2
             },
             {
+                "recipe_id": 3,
                 "recipePicture": "https://i.ibb.co/hBpbr0p/i1r3.webp",
                 "recipeName": "Pecan Pie",
                 "ingredients": [
@@ -201,9 +217,11 @@
         "chefName": "Jamie Johnson 5",
         "yearsOfExperience": 12,
         "likes": 2200,
+        "numberOfRecipes": 3,
         "chefBio": "Chef Jamie Johnson has been cooking professionally for 12 years and specializes in Southern cuisine. She loves to use traditional techniques and fresh ingredients to create classic dishes with a modern twist.",
-        "numberOfRecipes": [
+        "recipeInfo": [
             {
+                "recipe_id": 1,
                 "recipePicture": "https://i.ibb.co/PwvwNnV/i1r1.jpg",
                 "recipeName": "Buttermilk Fried Chicken",
                 "ingredients": [
@@ -217,6 +235,7 @@
                 "rating": 4.5
             },
             {
+                "recipe_id": 2,
                 "recipePicture": "https://i.ibb.co/YDYcH0c/i1r2.jpg",
                 "recipeName": "Shrimp and Grits",
                 "ingredients": [
@@ -230,6 +249,7 @@
                 "rating": 4.2
             },
             {
+                "recipe_id": 3,
                 "recipePicture": "https://i.ibb.co/hBpbr0p/i1r3.webp",
                 "recipeName": "Pecan Pie",
                 "ingredients": [
@@ -250,9 +270,11 @@
         "chefName": "Jamie Johnson 6",
         "yearsOfExperience": 12,
         "likes": 2200,
+        "numberOfRecipes": 3,
         "chefBio": "Chef Jamie Johnson has been cooking professionally for 12 years and specializes in Southern cuisine. She loves to use traditional techniques and fresh ingredients to create classic dishes with a modern twist.",
-        "numberOfRecipes": [
+        "recipeInfo": [
             {
+                "recipe_id": 1,
                 "recipePicture": "https://i.ibb.co/PwvwNnV/i1r1.jpg",
                 "recipeName": "Buttermilk Fried Chicken",
                 "ingredients": [
@@ -266,6 +288,7 @@
                 "rating": 4.5
             },
             {
+                "recipe_id": 2,
                 "recipePicture": "https://i.ibb.co/YDYcH0c/i1r2.jpg",
                 "recipeName": "Shrimp and Grits",
                 "ingredients": [
@@ -279,6 +302,7 @@
                 "rating": 4.2
             },
             {
+                "recipe_id": 3,
                 "recipePicture": "https://i.ibb.co/hBpbr0p/i1r3.webp",
                 "recipeName": "Pecan Pie",
                 "ingredients": [
